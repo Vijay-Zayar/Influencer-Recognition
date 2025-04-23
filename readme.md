@@ -1,6 +1,6 @@
-![](App_snapshot.jpg)
+![](App_snapshot.png)
 
-In this data science and machine learning project, we classify among influencers. We restrict classification to only 5 people,
+In this data science and machine learning project, we classify among influencers. We restrict classification to only 5 people. Here, we set the threshold to 50% and higher scores for recognition.
 1) Ronaldo
 2) Elon Musk
 3) Jack Ma
@@ -11,6 +11,15 @@ Here is the folder structure,
 * UI : This contains ui website code 
 * server: Python flask server
 * model: Contains Dataset and python notebook for model building
+
+Project Workflow
+* Data set preparation using Fatkun Batch Download Extension
+* Data Cleaning using numpy and opencv
+* Model building using sklearn and evaluation using GridSearchCV
+* Building Flask server API
+* Creating Web Application
+* Testing with single person and multiple people images
+
 
 Technologies used in this project,
 1. Python
