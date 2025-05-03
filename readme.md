@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-![](App_Snapshot.png)
-=======
 ![](App_Snapshot.PNG)
->>>>>>> 45c30addd0656d2c3b23754c75ac678c72e9f108
 
 In this data science and machine learning project, we classify among influencers. We restrict classification to only 5 people. Here, we set the threshold to 50% and higher scores for recognition.
 1) Ronaldo
